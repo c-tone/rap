@@ -305,6 +305,10 @@
                 <enabled>true</enabled>
             </snapshots>
         </repository>
+        <repository>
+            <id>cloudera</id>
+            <url>https://repository.cloudera.com/content/repositories/releases/</url>
+        </repository>
     </repositories>
     <!-- plugin仓库配置 -->
     <pluginRepositories>
