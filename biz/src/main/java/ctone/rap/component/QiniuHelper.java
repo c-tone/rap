@@ -1,4 +1,4 @@
-package ctone.rap;
+package ctone.rap.component;
 
 import com.qiniu.common.QiniuException;
 import com.qiniu.common.Zone;
