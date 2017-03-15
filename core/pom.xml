@@ -10,7 +10,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>rap-common</artifactId>
+    <artifactId>rap-core</artifactId>
     <packaging>jar</packaging>
 
     <dependencies>

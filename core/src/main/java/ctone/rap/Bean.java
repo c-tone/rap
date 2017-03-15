@@ -1,4 +1,4 @@
-package ctone.rap.bean;
+package ctone.rap;
 
 /**
  * Created by ouyi on 16/9/26.

@@ -26,7 +26,7 @@
     <servlet-mapping>
         <servlet-name>dispatcher</servlet-name>
         <url-pattern>*.do</url-pattern>
-        <url-pattern>*.htm</url-pattern>
+        <url-pattern>*.vm</url-pattern>
     </servlet-mapping>
 
     <!--请求中文乱码-->
@@ -48,6 +48,6 @@
     </filter-mapping>
 
     <welcome-file-list>
-        <welcome-file>index.html</welcome-file>
+        <welcome-file>/views/static/index.html</welcome-file>
     </welcome-file-list>
 </web-app>

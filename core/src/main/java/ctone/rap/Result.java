@@ -1,4 +1,4 @@
-package ctone.rap.result;
+package ctone.rap;
 
 import ctone.rap.constant.Status;
 

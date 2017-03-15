@@ -9,7 +9,7 @@ import com.qiniu.storage.UploadManager;
 import com.qiniu.storage.persistent.FileRecorder;
 import com.qiniu.util.Auth;
 import ctone.rap.constant.Status;
-import ctone.rap.result.Result;
+import ctone.rap.Result;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
